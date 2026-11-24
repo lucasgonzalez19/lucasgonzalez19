@@ -1,43 +1,69 @@
-Hola, soy Lucas Iván González 👋
+<div align="center">
 
-Software Developer Trainee / Junior | Full Stack (Backend & Frontend)
+# Hola, soy Lucas Iván González 👋
+### Software Developer | Full Stack (Backend & Frontend)
 
-Soy estudiante de Ingeniería en Informática en la Universidad de Buenos Aires (FIUBA) con una sólida base analítica y enfoque en la construcción de software eficiente, escalable y bien estructurado. Me apasiona el desarrollo tanto del lado del servidor como de la interfaz de usuario, combinando buenas prácticas de ingeniería con resolución pragmática de problemas.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasivangonzalez)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasgonzalezivan19@gmail.com)
 
-🎓 Formación: Ingeniería en Informática – UBA (FIUBA)
+</div>
 
-💻 Rol objetivo: Software Developer (Backend / Full Stack)
+---
 
-📍 Ubicación: Buenos Aires, Argentina
+### 🚀 Sobre mí
 
-📫 Contacto: lucasgonzalezivan19@gmail.com
+Soy estudiante de **Ingeniería en Informática** en la **Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA)**[cite: 1] y desarrollador de software enfocado en construir soluciones sólidas tanto del lado del servidor (**Backend**) como en interfaces web (**Frontend**).
 
-🔗 LinkedIn: linkedin.com/in/lucasivangonzalez
+* 💻 **Enfoque actual:** Desarrollo de APIs RESTful, arquitecturas limpias y gestión de bases de datos relacionales.
+* 🛠️ **Experiencia práctica:** Desarrollo freelance de aplicaciones a medida[cite: 10, 11] y soporte técnico integral de hardware y software[cite: 11].
+* 🌱 **Aprendiendo y profundizando:** Microservicios, contenedores con Docker y buenas prácticas de testing.
+* 📍 **Ubicación:** Buenos Aires, Argentina[cite: 1].
 
-🚀 Experiencia & Desarrollos Destacados
+---
 
-Desarrollador de Software Freelance: Diseño y desarrollo de aplicaciones web y sistemas a medida para clientes particulares.
+### 🛠️ Stack Tecnológico
 
-Sistema de Gestión de Eventos y Calendario: Aplicación desarrollada con Java y Spring Boot (gestionada con Maven en IntelliJ IDEA), con arquitectura en capas, operaciones CRUD completas, calendario interactivo y cálculo dinámico de cuenta regresiva.
+#### Lenguajes de Programación
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Soporte Técnico IT & Hardware (Freelance): Diagnóstico, ensamblaje, optimización de sistemas operativos (Windows / Linux) y mantenimiento preventivo/correctivo de equipos informáticos.
+#### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-🛠️ Stack Tecnológico
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Lenguajes de Programación
+#### Bases de Datos, DevOps & Herramientas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-Backend & Bases de Datos
+---
 
-Frontend
+### 📌 Desarrollos Destacados
 
-Herramientas, Contenedores & Sistemas
+#### 📅 Sistema de Gestión de Eventos y Calendario Interactivo
+> Desarrollo a medida para cliente particular[cite: 11].
+* **Stack:** `Java` · `Spring Boot` · `Maven` · `REST API` · `IntelliJ IDEA`
+* **Descripción:** Aplicación diseñada para registrar, administrar y visualizar eventos en un calendario propio, incorporando lógica de cálculo automático de cuenta regresiva (tiempo restante para cada fecha programada).
 
-📊 Estadísticas de GitHub
+---
 
-🌱 Actualmente enfocado en:
+### 📊 Estadísticas de GitHub
 
-Profundizando en arquitecturas Backend con Java (Spring Boot) y Go.
+<div align="center">
 
-Construyendo proyectos Full Stack contenerizados con Docker y PostgreSQL.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasgonzalez19&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgonzalez19&layout=compact&theme=tokyonight&hide_border=true)
 
-Aplicando buenas prácticas de código limpio, pruebas unitarias y control de versiones.
+</div>
